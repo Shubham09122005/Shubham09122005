@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hey there 👋, I'm Shubham Makkar</h1>
 <h3 align="center">🚀 CSE (AI & ML) Student | Full Stack Developer | Problem Solver</h3>
 
@@ -14,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 - 🎓 BE CSE (AI & ML) Student  
 - 💻 Building projects in **Python, Flask, JavaScript & C++**
@@ -96,4 +95,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-```
