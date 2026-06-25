@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems...;Training+Intelligent+Solutions...;Crafting+Interactive+Web+Experiences...;Exploring+Game+Development...;Solving+Complex+Problems+with+Code..." />
 
-<img src="https://komarev.com/ghpvc/?username=shubham09122005&label=PROFILE+VISITS&color=0A0A0A&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=shubham09122005&label=PROFILE+VIEWS&color=0A0A0A&style=for-the-badge" />
 
 </div>
 
@@ -18,28 +18,27 @@
 
 ---
 
-```md
 ## 🧠 Developer Profile
 
-🔹 **Name:** Shubham Makkar  
-🔹 **Role:** AI/ML + Full Stack Developer  
-🔹 **Focus:** Building scalable products & intelligent systems  
-🔹 **Specialization:** Backend Architecture, Web Apps, AI Systems  
+🔹 **Name:** Shubham Makkar
+🔹 **Role:** AI/ML + Full Stack Developer
+🔹 **Focus:** Building scalable systems & intelligent products
+🔹 **Specialization:** Backend Architecture • Web Applications • AI Systems
+🔹 **Current Mission:** Turning ideas into real-world software
 
 ---
 
 ## 🚀 Neural Core
 
-⚡ **Education:** BE CSE (AI & ML)  
-⚡ **Current Focus:**  
-┣━━ Data Structures & Algorithms  
-┣━━ Full Stack Engineering  
-┣━━ Artificial Intelligence  
-┣━━ Game Development  
-┗━━ System Design  
+⚡ **Education:** BE CSE (AI & ML)
+⚡ **Current Focus:**
+┣━━ Data Structures & Algorithms
+┣━━ Full Stack Development
+┣━━ Artificial Intelligence
+┣━━ Game Development
+┗━━ System Design
 
-🔥 **Status:** Shipping code daily & leveling up
-```
+🔥 **Status:** Shipping code daily & evolving every commit
 
 ---
 
@@ -99,11 +98,24 @@
 
 ## 🚀 Production Deployments
 
-```bash
-> SHOP.CO
-> Zombie Topdown Shooter
-> Smart Street Light Monitoring
-```
+<div align="left">
+
+🔹 **SHOP.CO**
+┣━━ Full Stack E-Commerce Platform
+┣━━ Authentication + Cart + Orders
+┗━━ Flask + SQLAlchemy + Bootstrap
+
+🔹 **Zombie Topdown Shooter**
+┣━━ Weapon Switching System (1–5 Keys)
+┣━━ OOP Architecture
+┗━━ Dynamic Combat Mechanics
+
+🔹 **Smart Street Light Monitoring**
+┣━━ IoT Automation
+┣━━ Fault Detection System
+┗━━ Solar Powered Monitoring
+
+</div>
 
 ---
 
@@ -114,6 +126,14 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham09122005&theme=tokyonight"/>
 
 </div>
+
+---
+
+## 💡 Current Workflow
+
+```text
+Plan → Build → Debug → Deploy → Repeat
+```
 
 ---
 
