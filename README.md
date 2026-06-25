@@ -1,70 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,30:0f0c29,60:302b63,100:24243e&text=SHUBHAM%20MAKKAR&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20•%20Full%20Stack%20Developer%20•%20Problem%20Solver&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:0d1117,50:1a1b27,100:00F7FF&text=SHUBHAM%20MAKKAR&fontSize=65&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20FULLSTACK%20%7C%20SYSTEMS&descSize=20&descAlignY=58"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=SYSTEM+BOOTING...;INITIALIZING+NEURAL+CORE...;COMPILING+REALITY...;BUILDING+THE+FUTURE...;WELCOME+TO+MY+DIGITAL+DOMAIN..." />
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=shubham09122005&label=VISITORS&color=00F7FF&style=for-the-badge"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=⚡+Building+Scalable+Systems;🧠+Training+Intelligent+Solutions;🎮+Crafting+Game+Mechanics;🚀+Deploying+Real+World+Products;🔥+Always+Learning+Always+Shipping" />
+<img src="https://img.shields.io/github/followers/shubham09122005?style=for-the-badge&logo=github&color=black"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shubham09122005&label=VISITORS&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/shubham09122005?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/shubham09122005?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/shubham09122005?style=for-the-badge&logo=github&color=blueviolet"/>
 
 </div>
 
 ---
 
-# ⚡ SYSTEM INITIALIZATION
+# ⚡ IDENTITY.EXE
 
-```diff
-+ Name        : Shubham Makkar
-+ Role        : Full Stack Developer
-+ Domain      : Artificial Intelligence & Machine Learning
-+ Status      : Building. Breaking. Improving.
-+ Speciality  : Backend Systems • AI Logic • Game Mechanics
+```ini id="f7l3rm"
+[USER]
+NAME = Shubham Makkar
+ROLE = Full Stack Developer
+FIELD = Artificial Intelligence & Machine Learning
+MODE = Hardcore Builder
+STATUS = Online
+POWER_LEVEL = Ascending
 ```
 
 ---
 
-# 🧠 CORE STACK
+# 🧠 TECH GENOME
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,html,css,react,nodejs,express,flask,mysql,sqlite,mongodb,git,github,linux,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,html,css,react,nodejs,express,flask,mysql,sqlite,mongodb,docker,git,github,linux,postman,vscode" />
 
 </div>
 
 ---
 
-# 🛰 CONNECT_PROTOCOLS
+# 🔥 ACTIVE PROTOCOLS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend-Architecture-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-System_Design-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game_Development-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-black?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📡 NETWORK LINKS
 
 <div align="center">
 
 <a href="https://linkedin.com/in/shubham-makkar">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:makkars0912@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/GMAIL-MESSAGE-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
 ---
 
-# 📊 PERFORMANCE MATRIX
+# 📊 SYSTEM TELEMETRY
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=shubham09122005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=shubham09122005&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham09122005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham09122005&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -76,17 +85,17 @@
 
 ---
 
-# 🔥 CONTRIBUTION WARZONE
+# ☢ CONTRIBUTION REACTOR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham09122005&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham09122005&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 🐍 SNAKE EATING COMMITS
+# 🐍 COMMIT CONSUMER
 
 <div align="center">
 
@@ -96,62 +105,51 @@
 
 ---
 
-# 🚀 DEPLOYED PROJECTS
+# 🚀 PROJECT VAULT
 
-```yaml
-SHOP.CO:
-  type: Full Stack E-Commerce
-  stack: Flask + SQLAlchemy + Bootstrap
-  features:
-    - Authentication
-    - Cart Management
-    - Orders
+```diff id="b2xq2x"
++ SHOP.CO
+  → Full Stack E-Commerce Engine
+  → Auth • Cart • Checkout • Orders
 
-Zombie Topdown Shooter:
-  type: Game Development
-  stack: Python + OOP
-  features:
-    - Weapon Switching
-    - Dynamic Enemy Combat
-    - Topdown Mechanics
++ Zombie Topdown Shooter
+  → Dynamic Weapon System
+  → AI Enemies • OOP Combat Engine
 
-Smart Street Light Monitoring:
-  type: IoT
-  stack: Sensors + Automation
-  features:
-    - Fault Detection
-    - Solar Monitoring
-    - Real-time Updates
++ Smart Street Light Monitoring
+  → IoT Fault Detection
+  → Solar Integrated Monitoring
 ```
 
 ---
 
-# ⚡ LIVE METRICS
+# ⚙ RUNTIME ENGINE
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham09122005&theme=github_dark"/>
-
-</div>
-
----
-
-# 💀 EXECUTION LOOP
-
-```bash
+```cpp id="iq6wwm"
 while(alive){
-   code();
-   debug();
-   deploy();
-   improve();
-   repeat();
+    build();
+    fail();
+    debug();
+    optimize();
+    deploy();
+    repeat();
 }
 ```
 
 ---
 
+# 💀 GITHUB INTELLIGENCE
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0c29,100:302b63&height=140&section=footer"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham09122005&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d1117,80:302b63,100:00F7FF&height=180&section=footer&animation=twinkling"/>
 
 </div>
