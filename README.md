@@ -18,30 +18,27 @@
 
 ---
 
-## 🧠 Developer Object
+```md
+## 🧠 Developer Profile
 
-```cpp
-class Developer {
-public:
-    string name = "Shubham Makkar";
-    string role = "AI/ML + Full Stack Developer";
-    string focus = "Building scalable products & intelligent systems";
-};
-```
+🔹 **Name:** Shubham Makkar  
+🔹 **Role:** AI/ML + Full Stack Developer  
+🔹 **Focus:** Building scalable products & intelligent systems  
+🔹 **Specialization:** Backend Architecture, Web Apps, AI Systems  
 
 ---
 
-## 🧠 Neural Core
+## 🚀 Neural Core
 
-```yaml
-Name: Shubham Makkar
-Education: BE CSE (AI & ML)
-Current Focus:
-  - Data Structures & Algorithms
-  - Full Stack Engineering
-  - Artificial Intelligence
-  - Game Development
-Status: Building every day 🚀
+⚡ **Education:** BE CSE (AI & ML)  
+⚡ **Current Focus:**  
+┣━━ Data Structures & Algorithms  
+┣━━ Full Stack Engineering  
+┣━━ Artificial Intelligence  
+┣━━ Game Development  
+┗━━ System Design  
+
+🔥 **Status:** Shipping code daily & leveling up
 ```
 
 ---
