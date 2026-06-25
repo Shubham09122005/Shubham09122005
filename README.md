@@ -1,24 +1,99 @@
-<h1 align="center">Hi 👋, I'm Shubham Makkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+```md
+<h1 align="center">Hey there 👋, I'm Shubham Makkar</h1>
+<h3 align="center">🚀 CSE (AI & ML) Student | Full Stack Developer | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham09122005&label=Profile%20views&color=0e75b6&style=flat" alt="shubham09122005" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham09122005" alt="shubham09122005" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **makkars0912@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-makkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-makkar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubham09122005&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/shubham09122005">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubham09122005&theme=algolia&row=1&column=7" alt="trophies"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham09122005&show_icons=true&locale=en&layout=compact" alt="shubham09122005" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham09122005&show_icons=true&locale=en" alt="shubham09122005" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham09122005&" alt="shubham09122005" /></p>
+- 🎓 BE CSE (AI & ML) Student  
+- 💻 Building projects in **Python, Flask, JavaScript & C++**
+- 🎮 Currently working on **Game Development Projects**
+- 🌱 Learning **Data Structures, AI/ML, and Full Stack Development**
+- 🚀 Passionate about solving real-world problems with code
+- ⚡ Fun fact: I turn coffee ☕ into code
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/shubham-makkar" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:makkars0912@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css" />
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap" />
+</p>
+
+### Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shubham09122005&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham09122005&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham09122005&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **SHOP.CO** — Full-stack eCommerce website inspired by Amazon  
+🔹 **Zombie Topdown Shooter** — A survival game with weapon switching (1-5 keys)  
+🔹 **Smart Street Light Monitoring System** — IoT-based defect detection system  
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham09122005&theme=tokyo-night" />
+</p>
+
+---
+
+## 💡 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+```
