@@ -1,146 +1,157 @@
 <div align="center">
 
-# ⚡ Shubham Makkar
-
-### `AI/ML Engineer in Progress` • `Full Stack Developer` • `Systems Builder`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems...;Training+Intelligent+Solutions...;Crafting+Interactive+Web+Experiences...;Exploring+Game+Development...;Solving+Complex+Problems+with+Code..." />
-
-<img src="https://komarev.com/ghpvc/?username=shubham09122005&label=PROFILE+VIEWS&color=0A0A0A&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,30:0f0c29,60:302b63,100:24243e&text=SHUBHAM%20MAKKAR&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20•%20Full%20Stack%20Developer%20•%20Problem%20Solver&descAlignY=60"/>
 
 </div>
-
----
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shubham09122005&theme=matrix&column=7&margin-w=10&margin-h=10" />
-</div>
-
----
-
-## 🧠 Developer Profile
-
-🔹 **Name:** Shubham Makkar
-🔹 **Role:** AI/ML + Full Stack Developer
-🔹 **Focus:** Building scalable systems & intelligent products
-🔹 **Specialization:** Backend Architecture • Web Applications • AI Systems
-🔹 **Current Mission:** Turning ideas into real-world software
-
----
-
-## 🚀 Neural Core
-
-⚡ **Education:** BE CSE (AI & ML)
-⚡ **Current Focus:**
-┣━━ Data Structures & Algorithms
-┣━━ Full Stack Development
-┣━━ Artificial Intelligence
-┣━━ Game Development
-┗━━ System Design
-
-🔥 **Status:** Shipping code daily & evolving every commit
-
----
-
-## ⚙️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,nodejs,express,flask,mysql,sqlite,git,github,vscode,postman,linux" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=⚡+Building+Scalable+Systems;🧠+Training+Intelligent+Solutions;🎮+Crafting+Game+Mechanics;🚀+Deploying+Real+World+Products;🔥+Always+Learning+Always+Shipping" />
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shubham09122005&label=VISITORS&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/shubham09122005?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/shubham09122005?style=for-the-badge&logo=github"/>
 
 </div>
 
 ---
 
-## 🌍 Connect Matrix
+# ⚡ SYSTEM INITIALIZATION
+
+```diff
++ Name        : Shubham Makkar
++ Role        : Full Stack Developer
++ Domain      : Artificial Intelligence & Machine Learning
++ Status      : Building. Breaking. Improving.
++ Speciality  : Backend Systems • AI Logic • Game Mechanics
+```
+
+---
+
+# 🧠 CORE STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,html,css,react,nodejs,express,flask,mysql,sqlite,mongodb,git,github,linux,vscode,postman,docker" />
+
+</div>
+
+---
+
+# 🛰 CONNECT_PROTOCOLS
 
 <div align="center">
 
 <a href="https://linkedin.com/in/shubham-makkar">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:makkars0912@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
 ---
 
-## 📊 System Analytics
+# 📊 PERFORMANCE MATRIX
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubham09122005&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=shubham09122005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham09122005&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham09122005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham09122005&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham09122005&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Heatmap
+# 🔥 CONTRIBUTION WARZONE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham09122005&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham09122005&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 🚀 Production Deployments
-
-<div align="left">
-
-🔹 **SHOP.CO**
-┣━━ Full Stack E-Commerce Platform
-┣━━ Authentication + Cart + Orders
-┗━━ Flask + SQLAlchemy + Bootstrap
-
-🔹 **Zombie Topdown Shooter**
-┣━━ Weapon Switching System (1–5 Keys)
-┣━━ OOP Architecture
-┗━━ Dynamic Combat Mechanics
-
-🔹 **Smart Street Light Monitoring**
-┣━━ IoT Automation
-┣━━ Fault Detection System
-┗━━ Solar Powered Monitoring
-
-</div>
-
----
-
-## ⚡ Runtime Metrics
+# 🐍 SNAKE EATING COMMITS
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham09122005&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-## 💡 Current Workflow
+# 🚀 DEPLOYED PROJECTS
 
-```text
-Plan → Build → Debug → Deploy → Repeat
+```yaml
+SHOP.CO:
+  type: Full Stack E-Commerce
+  stack: Flask + SQLAlchemy + Bootstrap
+  features:
+    - Authentication
+    - Cart Management
+    - Orders
+
+Zombie Topdown Shooter:
+  type: Game Development
+  stack: Python + OOP
+  features:
+    - Weapon Switching
+    - Dynamic Enemy Combat
+    - Topdown Mechanics
+
+Smart Street Light Monitoring:
+  type: IoT
+  stack: Sensors + Automation
+  features:
+    - Fault Detection
+    - Solar Monitoring
+    - Real-time Updates
+```
+
+---
+
+# ⚡ LIVE METRICS
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham09122005&theme=github_dark"/>
+
+</div>
+
+---
+
+# 💀 EXECUTION LOOP
+
+```bash
+while(alive){
+   code();
+   debug();
+   deploy();
+   improve();
+   repeat();
+}
 ```
 
 ---
 
 <div align="center">
 
-### "Code. Break. Learn. Repeat."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0c29,100:302b63&height=140&section=footer"/>
 
 </div>
